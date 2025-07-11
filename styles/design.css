@@ -1,0 +1,43 @@
+
+.inter-normal {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  font-size: 34px;
+  line-height: 150%;
+  height: 51px;
+  width: 99px;
+}
+
+header{
+  height: 151px;
+  width: 1140px;
+  padding: 0px 50px;
+  margin:0px 75px;
+}
+
+nav{
+    display: flex;
+    justify-content:space-between;
+}
+nav a{
+    text-decoration: none;
+    color: #4E47FF;
+}
+
+nav li{
+    list-style: none;
+    padding-top: 25px;
+}
+
+nav button{
+    height: 48px;
+    width:132px;
+    color: #FFFFFF;
+    background-color: #4E47FF;
+    border: none;
+    border-radius:10px ;
+    font-size: large;
+}
+                              
